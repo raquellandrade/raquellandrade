@@ -19,6 +19,8 @@ I like innovation and creativity, I know that challenges are what make us grow a
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![AMP](https://img.shields.io/badge/-AMP-000?&logo=AMP)
 
 ### Contact:
