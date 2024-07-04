@@ -1,4 +1,4 @@
-## Hi there 😊, I'm Raquel, frontend developer
+## <img width="60" src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" alt="hello jump" />, I'm Raquel, frontend developer
 
 Graduated in Internet Systems in 2012, I have worked with front end development since 2011. 
 Among my specialties are: Information Architecture, development with HTML5, CSS3, Javascript, Vuejs, React and a focus on good usability practices on the web, in addition to working with agile methodologies to lead and develop teams.
@@ -14,14 +14,23 @@ I like innovation and creativity, I know that challenges are what make us grow a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### Technologies
-![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-000?&logo=AdobePhotoshop)
-![AdobeIllustrator](https://img.shields.io/badge/-AdobeIllustrator-000?&logo=AdobeIllustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=AdobePhotoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=AdobeIllustrator)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Sass](https://img.shields.io/badge/-SASS-000?&logo=sass)
 ![AMP](https://img.shields.io/badge/-AMP-000?&logo=AMP)
+![Wordpress](http://img.shields.io/badge/-Wordpress-000?&logo=wordpress)
+
+### IDE & Tools
+![Git](http://img.shields.io/badge/-Git-000?&logo=git)
+![Postman](http://img.shields.io/badge/-Postman-000?&logo=postman)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellijidea)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
 ### Contact:
 
