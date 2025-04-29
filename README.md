@@ -1,12 +1,14 @@
 ## <img width="60" src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" alt="hello jump" />, I'm Raquel, frontend developer
 
-Graduated in Internet Systems in 2012, I have worked with front end development since 2011. 
-Among my specialties are: Information Architecture, development with HTML5, CSS3, Javascript, Vuejs, React and a focus on good usability practices on the web, in addition to working with agile methodologies to lead and develop teams.
-<br>
-The use of Gitflow, DevOps and Scrum are part of my work.
-I am constantly studying, looking for new learning, especially in the areas of soft skills such as Emotional Intelligence, seeking to apply what I learn in my daily life. 
-<br>
-I like innovation and creativity, I know that challenges are what make us grow and learn.
+I'm a Front-End developer with over 12 years of experience creating intuitive, high-performance interfaces that respect the user — even when they click where they shouldn't.
+<br/>
+My current stack includes Vue.js, Nuxt.js, React, modern JavaScript, and lots of HTML/CSS with dignity. I have knowledge in information architecture, responsive design, and good web development practices.
+<br/>
+I also work as a technical reference, organizing demands, leading teams, and using agile methodologies like Scrum, CI/CD, and GitFlow without losing my good humor (almost never).
+<br/>
+Aside from the technical side, I've been deepening my soft skills like empathy, active listening, emotional intelligence, and leading high-performance teams — because developing with people is just as demanding as developing with code.
+<br/>
+If you're looking for someone with technical experience, a focus on usability, and who still delivers projects on time even when the scope changes three times a week… this is it. I'm the person.
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
